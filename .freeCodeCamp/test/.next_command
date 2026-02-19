@@ -125,3 +125,7 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 \! pg_dump -U freecodecamp -d universe -f backup.sql
 pg_dump -U freecodecamp -d universe -f backup.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+psql -U postgres < universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
