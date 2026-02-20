@@ -132,3 +132,4 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 git push origin master
 pg_dump -cC --inserts -U freecodecamp universe > universe1.sql
+git push -u origin my-feature
