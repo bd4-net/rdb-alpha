@@ -125,3 +125,4 @@ help $
 man -k $
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
