@@ -128,3 +128,4 @@ man -k $
 ./bingo.sh
 I=0
 echo $I
+(( I++ ))
