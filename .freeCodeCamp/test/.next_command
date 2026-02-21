@@ -177,3 +177,4 @@ help [[
 ./fortune.sh
 help [[
 [[ hello == hello ]]
+[[ hello == world ]]
