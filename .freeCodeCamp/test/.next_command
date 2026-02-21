@@ -182,3 +182,6 @@ help [[
 [[ hello =~ world ]]
 [[ hello =~ el ]]
 [[ "hello world" =~ "lo wor" ]]
+__vsc_prompt_cmd_original
+[[ -n hello ]]
+[[ "hello world" =~ ^h ]]
