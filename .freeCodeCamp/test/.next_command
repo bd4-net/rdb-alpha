@@ -181,3 +181,4 @@ help [[
 [[ hello =~ world ]]
 [[ hello =~ world ]]
 [[ hello =~ el ]]
+[[ "hello world" =~ "lo wor" ]]
