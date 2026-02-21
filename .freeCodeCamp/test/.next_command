@@ -192,3 +192,4 @@ echo $VAR
 echo$
 echo $?
 [[ $VAR == "hello world" ]]
+[[ $VAR =~ \?$ ]]
