@@ -217,3 +217,10 @@ type bash
 type psql
 type ./five.sh
 exit
+$BROWSER https://github.com/freeCodeCamp/rdb-alpha/pull/new?head=bd4-net:main
+$BROWSER "https://github.com/bd4-net/rdb-alpha/compare/main...freeCodeCamp:main?expand=1"
+branch="my-changes"
+git rev-parse --verify --quiet "$branch" > /dev/null
+echo "Using branch: $branch"
+git stash list
+git checkout -b "$branch"
