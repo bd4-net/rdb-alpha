@@ -178,3 +178,6 @@ help [[
 help [[
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ world ]]
+[[ hello =~ world ]]
+[[ hello =~ el ]]
