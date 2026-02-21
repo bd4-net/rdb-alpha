@@ -200,3 +200,4 @@ echo $?
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
