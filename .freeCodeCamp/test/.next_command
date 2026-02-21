@@ -126,3 +126,4 @@ man -k $
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+I=0
