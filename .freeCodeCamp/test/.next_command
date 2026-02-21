@@ -162,3 +162,7 @@ echo ${ARR[@]}
 declare -p
 declare -p
 declare -p ARR
+__vsc_prompt_cmd_original
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
