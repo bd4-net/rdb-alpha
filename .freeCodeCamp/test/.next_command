@@ -92,3 +92,8 @@ psql -U freecodecamp -d universe -c "SELECT 'Database created successfully';"
 git add .
 cd /workspace/project
 cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
