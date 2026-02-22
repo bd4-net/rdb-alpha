@@ -181,3 +181,4 @@ cp students.csv students_test.csv
 ./insert_data.sh
 \l
 \ls
+rm students_test.csv
