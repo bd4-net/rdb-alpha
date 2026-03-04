@@ -48,3 +48,7 @@ echo hello bash > stdout.txt
 read NANME
 read NAME
 read NAME
+echo NAME
+echo read NAME
+echo NAME
+echo $NAME
