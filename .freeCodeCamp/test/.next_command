@@ -67,3 +67,4 @@ cat < name.txt
 echo B
 echo B
 touch script.sh
+chmod +x script.sh
