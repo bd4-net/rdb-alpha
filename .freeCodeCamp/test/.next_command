@@ -47,3 +47,4 @@ bad_command 2> stderr.txt
 echo hello bash > stdout.txt
 read NANME
 read NAME
+read NAME
