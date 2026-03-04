@@ -229,3 +229,6 @@ diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
 ./translate.sh kitty_ipsum_2.txt > doggy_ipsum_2.txt
 cat doggy_ipsum_2.txt
 diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/072586267e68ece9a47aa43f8c108e0dcbf44622/node' -p '"879e9f47737c" + JSON.stringify(process.env) + "879e9f47737c"'
