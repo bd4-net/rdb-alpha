@@ -76,3 +76,6 @@ echo B
 echo B 2> stdout.txt
 echo B > stdout.txt
 echo B
+echo B < echo.txt
+echo < name.txt
+./script.sh < name.txt
