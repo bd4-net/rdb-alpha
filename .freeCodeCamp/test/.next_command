@@ -89,3 +89,5 @@ man wc
 wc -l kitty_ipsum_1.txt
 wc -w kitty_ipsum_q.txt
 wc -w kitty_ipsum_1.txt
+wc -c kitty_ipsum_1.txt
+wc -m kitty_ipsum_1.txt
