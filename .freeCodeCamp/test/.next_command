@@ -58,3 +58,5 @@ echo freeCodeCamp > name.txt
 read NAME > name.txt
 read NAME < name.txt
 echo $NAME
+read NAME
+echo B
