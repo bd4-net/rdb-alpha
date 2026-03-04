@@ -103,3 +103,6 @@ cat < kitty_ipsum_1.txt
 cat < kitty_ipsum_1.txt
 cat < kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+echo "\nNumber of words:" >> kitty_info.txt
+echo -e "\nNumber of words:" >> kitty_info.txt
