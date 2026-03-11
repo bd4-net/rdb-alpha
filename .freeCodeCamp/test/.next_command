@@ -42,3 +42,5 @@ echo hello terminal
 echo hello terminal
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+\c bikes
+psql --username=freecodecamp --dbname=postgres
